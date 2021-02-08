@@ -314,7 +314,7 @@ function lotsOfArt(arr){
 
 
 // 🎨🎨 STRETCH 🎨🎨//
-/* 💪💪💪💪💪💪 STRETCH 1: 💪💪💪💪💪💪 
+/* 💪💪💪💪💪💪 STRETCH 1: 💪💪💪💪💪💪 test codegrade
 Programmatically console.log HTML element structure.
 
 In HTML, every artist and associated content uses the following structure: 

@@ -1,3 +1,5 @@
+Taylor Olson
+
 # Sprint Challenge: Advanced CSS and Intro to JavaScript - Influential Artists
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
@@ -24,9 +26,16 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
-2. Talk about 3 different things you can do to ensure your website is accessible. 
+Accessibility on a webpage are features of web page that enable disable persons to navigate and use the website just as a regular person would. Think of accessibility as the handicap parking spot for your web page.
+
+2. Talk about 3 different things you can do to ensure your website is accessible.
+Examples of accessibility on a web page include 1) alt-text on images that screen readers can read to the user, 2) keyboard input rather than a mouse input system for the user, because all people cannot use a mouse, 3) transcripts or subtitles for audio that is on the web page.
+
 3. How would you explain the concept of a variable to someone new to programming?
+A variable is a value or piece of information or a "name" assigned to a piece of data. This could be a number, a string, an object, a function, etc. The variable is how we "name" whatever the data is that we want to use for later and store that information into the computer, or our code. This allows us to easily call for that information again later in our code; by asking for that specific variable that we assigned to whatever data we chose prior.
+
 4. What is the purpose of using functions in code?
+The purpose of using functions in code is to make our code DRY, easier to use and edit, and reduce the overall amount of code we need to write. Functions will take in "data" and give back to you a result. Functions allow "functionality" of the web page. They can grab a name for you, or look up a piece of information regarding a certain object/person/etc.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
@@ -48,8 +57,8 @@ NOTE: Tests will run for the JavaScript portion of this challenge only
 
 *Before you jump in, take 10 minutes to review the code that has already been provided for you. Take time to see how the home page was built. During this time, [Review the provided design files](design/). You have been provided all content necessary in the [index.html file](index.html) and basic styling in the [index.css file](css/index.css).*
 
-* [ ] Add a viewport meta tag to the head of your index.html page.
-* [ ] Add responsive breakpoints to your code for 500px such that your styles match the [mobile design file](design/Mobile.png).
+* [x] Add a viewport meta tag to the head of your index.html page.
+* [x] Add responsive breakpoints to your code for 500px such that your styles match the [mobile design file](design/Mobile.png).
 
 ### Task 2b: Minimum Viable Product - JavaScript
 
